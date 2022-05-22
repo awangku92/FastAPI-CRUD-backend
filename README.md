@@ -1,4 +1,4 @@
-# API developed using FastAPI 🚀 Framework (Python 🐍)
+# API developed using FastAPI🚀 Framework (Python🐍)
 
 ### Basic CRUD API
 DB used is sqlite 🗄️
@@ -7,7 +7,7 @@ DB used is sqlite 🗄️
 
 API documentation 
 =================
-[API Documentation is at 'localhost:5000/docs'](localhost:5000/docs)
+[API Documentation is at 'http://localhost:5000/docs'](http://localhost:5000/docs)
 
 ---
 
